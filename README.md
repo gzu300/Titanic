@@ -10,3 +10,6 @@ todo:
 * make a seperate test set from training set.
 * implement a fully automatic pipeline from sklearn.
 * test other methods.
+
+#### 21/1/2020
+More EDA; pipeline and colum transformer on sklearn
